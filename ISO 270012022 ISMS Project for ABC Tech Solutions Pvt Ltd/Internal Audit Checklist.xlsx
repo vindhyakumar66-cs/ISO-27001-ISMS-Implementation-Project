@@ -1,7 +1,0 @@
-Clause/Area	Audit Question	Evidence	Status
-ISMS Scope	Is the ISMS scope documented?	Scope document	Pass
-Risk Assessment	Is risk assessment performed?	Risk register	Pass
-Asset Management	Is asset inventory maintained?	Asset inventory	Pass
-Access Control	Is MFA enabled for critical systems?	MFA settings screenshot	Partial
-Incident Management	Is incident process documented?	Incident policy	Pass
-Awareness	Are employees trained?	Training record	Pending

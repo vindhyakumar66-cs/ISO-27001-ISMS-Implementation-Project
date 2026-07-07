@@ -1,0 +1,18 @@
+No.	ISO 27001 Control 	Applicable (Yes/No)	Justification
+1	Information Classification	Yes	"We classified assets as Public, Internal, Confidential."
+2	Access Control	Yes	"Prevent unauthorized access to HR, Payroll, Customer Database, etc."
+3	Identity Management	Yes	Manage user accounts throughout their lifecycle.
+4	Authentication Information (Passwords & MFA)	Yes	"Strong authentication, including passwords and MFA, is required to verify user identities and reduce the risk of unauthorized access to critical systems."
+5	Privileged Access Rights	Yes	Control administrator accounts.
+6	Information Backup	Yes	Protect against backup failure and accidental deletion.
+7	Malware Protection	Yes	Protect employee laptops from malware.
+8	Vulnerability Management	Yes	Reduce vulnerabilities through patching.
+9	Secure Configuration	Yes	"Secure AWS, Wi-Fi Router, Microsoft 365."
+10	Logging & Monitoring	Yes	Detect suspicious activities.
+11	Cryptography	Yes	Protect Customer Database and Payroll Data.
+12	Information Security Awareness	Yes	Reduce phishing and human errors.
+13	Incident Management	Yes	Handle security incidents effectively.
+14	Supplier Security	Yes	Protect vendor relationships and contracts.
+15	Physical Security	Yes	Protect office equipment and networking devices.
+16	Secure Development 	Yes	Protect source code and development activities.
+17	Business Continuity / ICT Readiness	Yes	Ensure recovery after major disruptions.

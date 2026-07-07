@@ -1,0 +1,16 @@
+Asset ID	Asset Name	Asset Type	Owner	Classification	Location	Status
+A001	Employee Laptop	Hardware	IT Manager	Internal	Office/Remote	In Use
+A002	Customer Database	Information	IT Manager	Confidential	AWS	In Use
+A003	Microsoft 365	Service	IT Manager	Internal	Microsoft 365	In Use
+A004	AWS Environment	Network	Cloud Administrator	Internal	AWS	In Use
+A005	HR Records	Information	HR Manager	Confidential	HRMS	In Use
+A006	Payroll Data	Information	Finance Manager	Confidential	Payroll System	In Use
+A007	Source Code Repository	Software	Tech Lead	Confidential	GitHub	In Use
+A008	Customer Support System	Service	Support Manager	Confidential	SaaS Platform	In Use
+A009	Company Website	Service	Marketing Manager	Public	AWS	In Use
+A010	Wi-Fi Router	Hardware	IT Manager	Internal	Office	In Use
+A011	Backup Storage	Cloud Resource	IT Manager	Confidential	AWS	In Use
+A012	Employee Mobile Devices	Hardware	IT Manager	Internal	Office / Remote	In Use
+A013	Shared Network Drive	Information	IT Manager	Internal	Shared Network Drive	In Use
+A014	Vendor Contracts	Information	Procurement Manager	Confidential	SharePoint	In Use
+A015	Security Awareness Records	Information	HR Manager	Internal	Microsoft 365	In Use
